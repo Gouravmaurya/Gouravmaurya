@@ -3,7 +3,7 @@
   # Hi, I'm Gourav Maurya 👋
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+AI+Agents;Crafting+Scalable+Web+Apps;Founder+Mindset" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+AI+Agents;Crafting+Scalable+Web;" alt="Typing SVG" />
   </a>
 
   <p>
