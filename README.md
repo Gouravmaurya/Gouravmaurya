@@ -1,47 +1,23 @@
-# Hi there, I'm Gourav Maurya! 👋
+<h1 align="center">Hi 👋, I'm Gourav Maurya</h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-### 👨‍💻 Full-Stack Developer | AI & Automation Enthusiast
-[cite_start]I specialize in building scalable, AI-powered web applications using **React.js, Next.js, and Firebase**[cite: 4, 9]. [cite_start]I am passionate about solving real-world problems in travel-tech and content automation through clean UI/UX and modern APIs like Gemini and Hugging Face[cite: 4, 6].
+- 🔭 I’m currently working on **FlowStack**
 
----
+- 🌱 I’m currently learning **Redis**
 
-### 🛠️ Tech Stack
-| Frontend | Backend & Database | AI & Tools |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+- 🤝 I’m looking for help with [SAFAR - AI Trip Planner](https://www.safarai.in/)
 
----
+- 👨‍💻 All of my projects are available at [gouravmaurya.vercel.app](gouravmaurya.vercel.app)
 
-### 🚀 Featured Projects
+- 📫 How to reach me **gouravmaurya351@gmail.com**
 
-#### ✈️ **[Safar AI](https://safarai.in)**
-_AI-Powered Trip Planner_
-* **The Problem:** Manual trip planning is time-consuming and fragmented.
-* [cite_start]**The Solution:** An auto-generating itinerary planner using **Gemini AI** and **Google Place API**[cite: 16, 17].
-* [cite_start]**Impact:** Reduces planning time by **60%** with automated hotel search and route planning[cite: 18].
-* [cite_start]**Stack:** React.js, Firebase, Gemini API[cite: 16].
+- 📄 Know about my experiences [gouravmaurya.vercel.app](gouravmaurya.vercel.app)
 
-#### 🏠 **JANUS-AI**
-_Property Deal Analyzer_
-* [cite_start]**The Solution:** Helps investors find high-potential properties instantly through AI-driven deal scouting[cite: 26, 28].
-* [cite_start]**Key Feature:** Uses multi-agent collaboration to provide explainable "Why this deal?" reasoning[cite: 31, 32].
-* [cite_start]**Stack:** Next.js, Firebase, AI Agents, Zillow API[cite: 27].
-
-#### 🤖 **AI Social Media Agent**
-_Automated Content Creator_
-* [cite_start]**The Solution:** An agent that posts auto-generated captions based on travel data using **Mistral-7B**[cite: 23, 25].
-* [cite_start]**Impact:** Reduced manual content creation time by **90%**[cite: 24].
-
----
-
-### 📊 GitHub Stats
-![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouravmaurya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravmaurya&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gourav-maurya-a39969226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav maurya" height="30" width="40" /></a>
-<a href="mailto:gouravmaurya351@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gouravmaurya351@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/gourav maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourav maurya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gourav-maurya-a3996922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourav-maurya-a3996922" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
